@@ -4641,7 +4641,7 @@
 		{ "desc": "Faster shots", "code": "GAUTITGE" },
 		{ "desc": "Aliens don\u0027t attack", "code": "EIOYYGEY" },
 		{ "desc": "Start on level H0 (240)", "code": "VAEYKZSA" },
-		{ "desc": "Start with 4 flagships", "code": "OZSYNGSU",
+		{ "desc": "Start with 4 flagships", "code": "OZSYNGSU" },
 		{ "desc": "Green aliens are cyan (requires reset)", "code": "GXKTPOZO;GXSTPOZO" },
 		{ "desc": "Starfield moves up", "code": "VIKYPEVN;ZAKNAAKV;KTSYAEAZ" },
 		{ "desc": "More difficult alien bullets (glitchy)", "code": "SNKVPSIN" }
